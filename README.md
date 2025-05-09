@@ -1,4 +1,4 @@
-# KultureHire-Internship-Project
+# Customer-Service-Sentiment-Analysis.
 
 ## Stage-1: Become Dashboarding Expert
 
