@@ -38,3 +38,49 @@
 
 - Worked on an employer-focused project, creating recommendations and emphasizing the importance of storytelling in data.
 - Presented findings and work done through a comprehensive presentation.
+
+
+
+
+This project is adapted from my internship training at KultureHire (original source: [@muskan0830](https://github.com/muskan0830)). It demonstrates skills in dashboard creation and basic sentiment analysis using customer service data.
+
+---
+
+## 🔍 Project Overview
+
+This project covers **Stage 1** of a broader internship assignment. It focuses on:
+- Understanding customer sentiments through visual analytics
+- Designing **interactive dashboards** using tools like **Power BI**
+- Analyzing service-related data to uncover improvement areas
+
+---
+
+## 📊 Key Contributions
+- Built an interactive **Power BI dashboard** to visualize customer service data
+- Created meaningful insights by choosing the right **chart types and KPIs**
+- Showcased an ability to translate raw data into actionable visuals for stakeholders
+
+---
+
+## 🛠 Tools & Skills Used
+- Power BI (dashboarding, Power Query Editor, DAX)
+- SQL (basic operations—later stages)
+- Excel (data prep)
+- Data storytelling & business insight generation
+
+---
+
+## 📁 Folder Structure
+This repo contains only **Stage 1 – Customer Service** work. Other stages from the original internship project are not included here.
+
+---
+
+## 📌 Credit
+This project is **adapted from** the [KultureHire Internship Project](https://github.com/muskan0830/KultureHire-Internship-Projects) by [@muskan0830](https://github.com/muskan0830), with credit to the original author. This version is for personal learning and portfolio showcasing only.
+
+---
+
+## 🧠 Purpose
+To demonstrate my skills in dashboarding and data storytelling using real-world customer service data, with a focus on actionable business insights.
+
+
