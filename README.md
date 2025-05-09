@@ -40,47 +40,91 @@
 - Presented findings and work done through a comprehensive presentation.
 
 
+This repository presents a comprehensive multi-stage data analysis and visualization project focused on customer service, originally designed as part of a data internship experience. It covers the complete data lifecycle—from problem formulation to storytelling using dashboards.
 
-
-This project is adapted from my internship training at KultureHire (original source: [@muskan0830](https://github.com/muskan0830)). It demonstrates skills in dashboard creation and basic sentiment analysis using customer service data.
-
----
-
-## 🔍 Project Overview
-
-This project covers **Stage 1** of a broader internship assignment. It focuses on:
-- Understanding customer sentiments through visual analytics
-- Designing **interactive dashboards** using tools like **Power BI**
-- Analyzing service-related data to uncover improvement areas
+> 📌 **Note**: This project is adapted and credited to the original author [@muskan0830](https://github.com/muskan0830) and was cloned for learning and portfolio purposes only.
 
 ---
 
-## 📊 Key Contributions
-- Built an interactive **Power BI dashboard** to visualize customer service data
-- Created meaningful insights by choosing the right **chart types and KPIs**
-- Showcased an ability to translate raw data into actionable visuals for stakeholders
+## 🔄 Project Stages Overview
+
+### 🧩 Stage 1: Dashboarding Fundamentals
+- Developed dashboards for **Customer Service**, **Finance**, and **Orders**
+- Gained expertise in chart selection and designing informative visual layouts
+
+### 🎯 Stage 2: Problem Framing
+- Defined a real-world business problem: *"Understanding Career Aspirations of Gen-Z"*
+- Considered business, social, and organizational impacts
+
+### 📥 Stage 3: Data Collection
+- Designed and distributed a Google Form to gather primary data on Gen-Z aspirations
+
+### 🧹 Stage 4: Data Cleaning & SQL Basics
+- Imported data into **MySQL Workbench**
+- Cleaned and standardized using SQL queries
+
+### 📊 Stage 5: Data Analysis & Hypothesis Testing
+- Performed SQL-driven hypothesis testing
+- Used **CTEs** and **Joins** for solving advanced analytical questions
+
+### 📈 Stage 6: General Power BI Dashboard
+- Built a unified dashboard showing Gen-Z’s aspirations (Learning, Mission, Manager)
+- Used Power Query Editor, calculated measures, and grouping
+
+### 🚀 Stage 7: Focus Area Dashboards
+- Created three separate dashboards focused on each aspiration dimension
+- Incorporated KPIs, dynamic visuals, and interactivity
+
+### 🧠 Stage 8: Data Storytelling
+- Framed employer-focused recommendations based on analysis
+- Presented findings with clear narratives and visual support
 
 ---
 
-## 🛠 Tools & Skills Used
-- Power BI (dashboarding, Power Query Editor, DAX)
-- SQL (basic operations—later stages)
-- Excel (data prep)
-- Data storytelling & business insight generation
+## 🛠 Tools & Technologies
+- **Power BI**: Dashboard creation, DAX, Power Query Editor
+- **MySQL Workbench**: Data cleaning, SQL operations
+- **Excel/Google Sheets**: Data preparation and collection
+- **Jupyter Notebook**: Basic sentiment analysis (TextBlob)
+- **Data Storytelling**: Business-focused presentations and insights
 
 ---
 
-## 📁 Folder Structure
-This repo contains only **Stage 1 – Customer Service** work. Other stages from the original internship project are not included here.
+## 🎯 Project Purpose
+
+This end-to-end project demonstrates the ability to:
+- Translate a business challenge into a data problem
+- Clean, analyze, and visualize real-world data
+- Present actionable insights using modern BI tools
+- Practice data storytelling for stakeholders
 
 ---
 
 ## 📌 Credit
-This project is **adapted from** the [KultureHire Internship Project](https://github.com/muskan0830/KultureHire-Internship-Projects) by [@muskan0830](https://github.com/muskan0830), with credit to the original author. This version is for personal learning and portfolio showcasing only.
+
+This project was **cloned and adapted** from the [KultureHire Internship Repository](https://github.com/muskan0830/KultureHire-Internship-Projects) by [@muskan0830](https://github.com/muskan0830).  
+All original credit goes to the author.  
+This version is published for **portfolio and learning demonstration** only.
 
 ---
 
-## 🧠 Purpose
-To demonstrate my skills in dashboarding and data storytelling using real-world customer service data, with a focus on actionable business insights.
+## 📁 Repository Structure
+Customer-Service-Analysis/
+├── STAGE-1/ → Dashboarding (Customer, Finance, Orders)
+├── STAGE-2/ → Problem Statement Framing
+├── STAGE-3/ → Data Collection (Google Form)
+├── STAGE-4/ → SQL Data Cleaning
+├── STAGE-5/ → Hypothesis Testing & SQL Analysis
+├── STAGE-6/ → General Power BI Dashboard
+├── STAGE-7/ → Focused Dashboards
+├── STAGE-8/ → Data Storytelling and Recommendations
 
+---
+
+## 👨‍💻 Maintainer
+
+**Mohammed Sharuk**  
+[GitHub](https://github.com/Mohammed-Sharuk) | [LinkedIn](https://www.linkedin.com/in/your-link)
+
+---
 
